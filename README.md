@@ -122,7 +122,7 @@ select market_segment_type, count(market_segment_type) as count from
 hotel_reservation_dataset group by market_segment_type order by count desc limit 1;
 ```
 
-Insight: The most common market segment type for reservation is onlime segment with count of 518.
+Insight: The most common market segment type for reservation is online segment with count of 518.
 
 9. How many reservations have a booking status of "Confirmed"?
 ```sql
