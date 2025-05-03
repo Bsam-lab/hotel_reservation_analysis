@@ -110,7 +110,7 @@ where no_of_weekend_nights >0;
 Insight: The number of reservation that fall under this category is 383.
 
 7. What is the highest and lowest lead time for reservations?
-``sql
+```sql
 select max(lead_time) as highest,min(lead_time) as lowest from hotel_reservation_dataset;
 ```
 
