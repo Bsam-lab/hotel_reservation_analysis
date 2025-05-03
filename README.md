@@ -267,6 +267,6 @@ Insight: The Online segment generate the highest average price with $112.46
    - More good reviews = better ranking = more bookings.
   
 ### Conclusion
-This project successfully developed a hotel reservation recommendation system that simplifies the hotel selection process for users. By using key criteria such as location, price range, amenities, and user preferences, the system provides relevant and personalized hotel suggestions. This helps users make faster and more informed decisions when planning their stays.
+This project successfully developed a hotel reservation recommendation system that simplifies the hotel selection process for users. By using key criteria such as price range, amenities, and user preferences, the system provides relevant and personalized hotel suggestions. This helps users make faster and more informed decisions when planning their stays.
 
 The approach demonstrated that even without complex algorithms, well-structured filtering and ranking methods can significantly improve the hotel booking experience. Future enhancements may include adding more user input options, real-time availability checks, and integration with maps or review platforms to further enrich the recommendations. Overall, the system offers a reliable and user-friendly solution for hotel selection.
