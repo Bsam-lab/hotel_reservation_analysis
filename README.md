@@ -202,7 +202,7 @@ Insight: The Online segment generate the highest average price with $112.46
 
 #### Recommendations Based on Most Booked Room Type(Room type 1 with 534 bookings)
 1. Promote as “Guest Favorite” or “Most Booked”
-   - Add badges or highlights in the booking UI: “Most Popular Choice – Booked 534 times!”
+   - Add badges or highlights in the booking UI: “Room type 1 – Booked 534 times!”
 2. Make it a default selection
    - Pre-select it in search results or booking flows to reduce friction and guide choices.
 3. Create special packages
